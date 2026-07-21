@@ -10,6 +10,7 @@ function nextFinal() {
   gallery.style.display = "none";
   document.querySelector(".final-section").style.display = "flex";
 }
+
 function forgiveMe() {
-  popup.style.display = "block";
+  document.getElementById("popup").style.display = "block";
 }
