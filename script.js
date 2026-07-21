@@ -11,6 +11,5 @@ function nextFinal() {
   document.querySelector(".final-section").style.display = "flex";
 }
 
-function forgiveMe() {
-  document.getElementById("popup").style.display = "block";
-}
+function forgiveMe(
+  
